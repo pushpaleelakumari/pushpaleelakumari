@@ -1,4 +1,3 @@
-![logo](https://github.com/pushpaleelakumari/pushpaleelakumari/blob/main/GIT_PROFILE_BANNER.PNG)
 <h1 align="center">Hi 👋, I'm D Pushpa Leela Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
